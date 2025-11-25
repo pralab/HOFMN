@@ -143,6 +143,6 @@ F73C22001320007.
 
 <img src="ack/images/SERICS.png" alt="serics" style="height:50px;"/> &nbsp;&nbsp;
 <img src="ack/images/FAIR.png" alt="fair" style="height:50px;"/> &nbsp;&nbsp; 
-<img src="ack/images/sec4AI4sec.png" alt="sec4ai4sec" style="width:70px;"/> &nbsp;&nbsp; 
+<img src="ack/images/sec4AI4sec.png" alt="sec4ai4sec" style="height:50px;"/> &nbsp;&nbsp; 
 <img src="ack/images/fondazione-sardegna.png" alt="fondazione_sardegna" style="height:50px;"/> &nbsp;&nbsp;
 <img src="ack/images/FundedbytheEU.png" alt="LInf" style="height:50px;"/>
